@@ -45,10 +45,18 @@ This repository contains teaching materials, codes, and supplementary informatio
       <!--* [DIY notebook](https://github.com/m24639297/2019-summer-QC/blob/master/VQE-DIY.ipynb) (TO BE UPLOADED)-->
     
       * [VQE 1234](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/Introduction-to-Quantum-Computing-and-Qiskit-Day-3.ipynb) : demonstration of creating a VQE (without using `VQE` package)
+      
+      * [Review of VQE and expectation value](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/Variational-Quantum-Eigensolver.pdf)
+
+      * [VQE-DIY](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/VQE-DIY.ipynb): Solution to VQE exercise
 
   * Finance: portfolio optimization
       * [Slides](https://github.com/m24639297/2019-summer-QC/blob/master/Qiskit-Finance.pdf)
       
       * [Jupyter notebook](https://github.com/m24639297/2019-summer-QC/blob/master/portfolio.ipynb)
     
+  * QGAN (official tutorial)
+      * [QGAN](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/qgans_for_loading_random_distributions.ipynb)
+    
+  
 
